@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<countries>
+    <country name="Bulgaria">
+        <id>4233</id>
+        <continent>Europe</continent>
+    </country>
+    <country name="Germany">
+        <id>2743</id>
+        <continent>Europe</continent>
+    </country>
+</countries>
